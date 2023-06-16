@@ -1,0 +1,5 @@
+{
+  "fixturesFolder": "src/__tests__/e2e/fixtures",
+  "integrationFolder": "src/__tests__/e2e/integration",
+  "supportFile": "src/__tests__/e2e/support/index.ts"
+}

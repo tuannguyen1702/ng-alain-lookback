@@ -3,6 +3,8 @@
 // This file is licensed under the MIT License.
 // License text available at https://opensource.org/licenses/MIT
 
-import {MiddlewareSequence} from '@loopback/rest';
+export * from './order.repository';
+export * from './product.repository';
+export * from './user-credentials.repository';
+export * from './user.repository';
 
-export class ShoppySequence extends MiddlewareSequence {}
